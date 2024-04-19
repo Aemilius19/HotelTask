@@ -1,0 +1,15 @@
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\bin\Debug\net8.0\HotelTask.exe
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\bin\Debug\net8.0\HotelTask.deps.json
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\bin\Debug\net8.0\HotelTask.runtimeconfig.json
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\bin\Debug\net8.0\HotelTask.dll
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\bin\Debug\net8.0\HotelTask.pdb
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfoInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfo.cs
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.sourcelink.json
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.dll
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\refint\HotelTask.dll
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.pdb
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\HotelTask.genruntimeconfig.cache
+C:\Users\shiimerryPC\Desktop\Task's\HotelTask\obj\Debug\net8.0\ref\HotelTask.dll

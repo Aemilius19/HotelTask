@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\models\\hoteladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:models\\hoteladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\exceptions\\capacityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:exceptions\\capacityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\hoteltask\\exceptions\\notaviableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA85629C-F97F-43BE-AC85-F947B5884300}|HotelTask.csproj|solutionrelative:exceptions\\notaviableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\Hotel.cs",
+              "RelativeToolTip": "Models\\Hotel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4v0gAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:35:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\HotelAdmin.cs",
+              "RelativeDocumentMoniker": "Models\\HotelAdmin.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\HotelAdmin.cs",
+              "RelativeToolTip": "Models\\HotelAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:37:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapacityException.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Exceptions\\CapacityException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\CapacityException.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Exceptions\\CapacityException.cs",
+              "RelativeToolTip": "Exceptions\\CapacityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:54:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:29:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotAviableException.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Exceptions\\NotAviableException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\NotAviableException.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Exceptions\\NotAviableException.cs",
+              "RelativeToolTip": "Exceptions\\NotAviableException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:29:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\HotelTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAD4v2AAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:27:00.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
